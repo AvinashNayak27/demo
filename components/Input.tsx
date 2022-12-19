@@ -14,7 +14,7 @@ export default function Input() {
   const handleSubmit= async (event:any)=>{
     setIsloading(true);
     event.preventDefault();
-    const res =await fetch('https://demo-eymwq2gks-avinashnayak27.vercel.app/api/generate',{
+    const res =await fetch('/api/generate',{
       method:'POST',
       headers:{
         'Content-Type':'application/json',

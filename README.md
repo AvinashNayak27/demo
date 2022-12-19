@@ -1,3 +1,5 @@
+DEMO VIDEO (https://youtu.be/ic5HU4hTPEI)
+
 Hey Guys,
 Stable is a web-app that generates NFTs using on mumbai network  using openAI's **text-to-image** model
 
